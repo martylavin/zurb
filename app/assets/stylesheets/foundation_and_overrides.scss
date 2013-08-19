@@ -66,7 +66,7 @@
 //
 
 // $row-width: 62.5em;
-// $column-gutter: 1.875em;
+// $column-gutter: 50px;
 // $total-columns: 12;
 
 //
@@ -968,7 +968,7 @@
 //
 
 // Background color for the top bar
-// $topbar-bg: #111;
+$topbar-bg: #0055bb !default;
 
 // Height and margin
 // $topbar-height: 45px;
